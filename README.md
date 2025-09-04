@@ -1,10 +1,10 @@
-🗳️ Polls Application
+# 🗳️ Polls Application
 
 A full-stack web application built with Django, allowing users to create polls, vote, and view results in real time.
 
 This project demonstrates clean architecture, use of Django’s ORM, and a fully functional admin panel for managing content.
 
-🚀 Features
+# 🚀 Features
 
 Poll Management – Create, edit, and delete polls via the Django Admin.
 
@@ -17,7 +17,7 @@ Admin Dashboard – Secure backend to manage polls and choices.
 Responsive UI – Clean, minimal, and works across devices.
 
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
 Clone the repository and set up the project locally:
 
@@ -48,7 +48,7 @@ http://127.0.0.1:8000/polls/ → User-facing polls
 
 http://127.0.0.1:8000/admin/ → Admin dashboard
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Backend: Django, Python
 
@@ -58,7 +58,7 @@ Frontend: Django Templates, Bootstrap
 
 Authentication & Security: Django Auth, CSRF protection
 
-📂 Project Structure
+# 📂 Project Structure
 polls-app/
 │── polls/           # Main polls app (models, views, urls, templates)
 │── mysite/          # Project configuration
